@@ -1,0 +1,2 @@
+benchmark v1.4.2
+workers=8 iterations=1000 median_ms=12.4 p95_ms=19.8
