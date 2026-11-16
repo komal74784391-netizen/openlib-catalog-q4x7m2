@@ -7,7 +7,6 @@ publication_status: released
 upstream_package: numpy
 hosturl: https://numpy.org/
 docsurl: https://numpy.org/doc/stable/
-repo_url: https://github.com/komal74784391-netizen/openlib-catalog-q4x7m2/tree/main/workspaces/arrayforge
 ---
 
 # NumPy
